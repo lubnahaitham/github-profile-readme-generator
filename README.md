@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lubnahaitham" alt="lubnahaitham" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/lubnahaithamm" target="blank"><img src="https://img.shields.io/twitter/follow/lubnahaithamm?logo=twitter&style=for-the-badge" alt="lubnahaithamm" /></a> </p>
 
 - 🔭 I’m currently working on **Thinking**
 
