@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lubna Haitham</h1>
 <h3 align="center">A passionate back-end developer from Egypt</h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lubnahaitham&label=Profile%20views&color=0e75b6&style=flat" alt="lubnahaitham" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lubnahaitham" alt="lubnahaitham" /></a> </p>
@@ -27,7 +31,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <p align="left">
