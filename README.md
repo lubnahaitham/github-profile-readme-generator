@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **lubnahaitham6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GY81fCg9gDF-baobcXrD0RK2abTDpnWH/view?usp=sharing](https://drive.google.com/file/d/1GY81fCg9gDF-baobcXrD0RK2abTDpnWH/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1PDuUHkB_jYjplQOixVgL3xtFCRo1Khrn/view?usp=sharing
 
 
 
