@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lubnahaitham](https://github.com/lubnahaitham)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/lubna-haitham-039286125/](https://www.linkedin.com/in/lubna-haitham-039286125/)
+- 📝 I regularly write articles on [Linkedin.com/in/lubna-haitham](Linkedin.com/in/lubna-haitham)
 
 - 💬 Ask me about **Django**
 
