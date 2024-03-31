@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **lubnahaitham6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PDuUHkB_jYjplQOixVgL3xtFCRo1Khrn/view?usp=sharing](https://drive.google.com/file/d/1PDuUHkB_jYjplQOixVgL3xtFCRo1Khrn/view?usp=sharing)
+- 📄 Know about my experiences [Go to my Linkedin, I willbe happy to see you there]
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
