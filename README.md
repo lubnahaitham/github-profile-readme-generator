@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lubna Haitham</h1>
-<h3 align="center">A passionate back-end developer from Egypt</h3>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<h1 align="center">Hi 👋, I hope you like my repos</h1>
+<!-- <h3 align="center">A passionate back-end developer from Egypt</h3>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lubnahaitham&label=Profile%20views&color=0e75b6&style=flat" alt="lubnahaitham" /> </p>
 
