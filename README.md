@@ -9,17 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Thinking**
-
-- 🌱 I’m currently learning or I want to learn **Everyrhing**
-
 - 👯 I’m looking to collaborate on **Thinking**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lubnahaitham](https://github.com/lubnahaitham)
 
 - 📝 I regularly write articles on [Linkedin.com/in/lubna-haitham](Linkedin.com/in/lubna-haitham)
-
-- 💬 Ask me about **Django**
 
 - 📫 How to reach me **lubnahaitham6@gmail.com**
 
