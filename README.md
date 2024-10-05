@@ -40,8 +40,8 @@
   <img src="https://img.shields.io/badge/-Nmap-4682B4?logo=nmap&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Burp_Suite-FF6600?logo=burpsuite&logoColor=white&style=for-the-badge" />
 </p>
----
 
+---
 
 <h2>🎯 Certifications:</h2>
 <ul>
