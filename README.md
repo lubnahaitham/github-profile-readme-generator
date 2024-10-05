@@ -44,16 +44,11 @@
 
 <h2>💬 Connect with Me:</h2>
 <p align="center">
-  <a href="https://twitter.com/YourTwitterHandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/YourLinkedInProfile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/lubna-haitham" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/lubnahaitham" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>
-</p>
 
 <p align="center">
   Always excited to collaborate on cybersecurity and web development projects, and I’m constantly looking to enhance my skills!
