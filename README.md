@@ -24,9 +24,8 @@
 
 <h2>🛠️ Tech Stack & Tools:</h2>
 <ul>
-  <li><strong>Languages</strong>: Python, JavaScript, HTML, CSS</li>
+  <li><strong>Languages</strong>: Python, JavaScript, HTML, CSS, Bootstrap</li>
   <li><strong>Backend Frameworks</strong>: Django</li>
-  <li><strong>Front-End</strong>: Bootstrap</li>
   <li><strong>Databases</strong>: PostgreSQL, MySQL</li>
   <li><strong>DevOps</strong>: Docker, CI/CD (In progress to learn)</li>
   <li><strong>Cybersecurity Tools</strong>: Nmap, Burp Suite, Wireshark, Metasploit, OWASP ZAP</li>
