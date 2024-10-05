@@ -4,6 +4,7 @@
   <strong>Certified eWPT | Preparing for eCPPT | Cybersecurity Enthusiast | Python/Django Backend Developer</strong>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lubnahaitham&label=Profile%20views&color=0e75b6&style=flat" alt="lubnahaitham" /> </p>
 ---
 
 <h2>🌐 About Me:</h2>
