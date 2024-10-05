@@ -32,15 +32,16 @@
   <li><strong>Cybersecurity Tools</strong>: Nmap, Burp Suite, Wireshark, Metasploit, OWASP ZAP</li>
 </ul>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Nmap-4682B4?logo=nmap&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Burp_Suite-FF6600?logo=burpsuite&logoColor=white&style=for-the-badge" />
+</p>
 ---
 
-<h2>🚀 Projects:</h2>
-<ul>
-  <li><strong>Project Name 1</strong>: A description of one of your cybersecurity or backend projects.</li>
-  <li><strong>Project Name 2</strong>: Another project related to either web development or penetration testing.</li>
-</ul>
-
----
 
 <h2>🎯 Certifications:</h2>
 <ul>
